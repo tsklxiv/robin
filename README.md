@@ -35,9 +35,7 @@ go build
 
 ## Contributions
 
-Contributions are welcome. If you found any bugs or want to requrest a feature, please open a discussion in
-[my public inbox](https://lists.sr.ht/~tsukii/public-inbox) by sending an email to
-[~tsukii/public-inbox@lists.sr.ht](mailto:~tsukii/public-inbox@lists.sr.ht).
+Contributions are welcome. If you found any bugs or want to requrest a feature, please open an issue. 
 
 ## Credits
 
