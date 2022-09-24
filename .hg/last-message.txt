@@ -1,1 +1,1 @@
-Update README Credits section
+Update .hgignore
