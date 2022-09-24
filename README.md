@@ -21,7 +21,7 @@ Robin is a terminal-friendly, dead-simple file server. Written in Go.
 ## Features
 
 * Serve static files
-* Terminal-friendly, elegant interface (Returns plain text)
+* Terminal-friendly, elegant interface (Returns plain text tables)
 * `curl`-friendly
 
 ## Installation
