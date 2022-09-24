@@ -1,0 +1,8 @@
+data/main.go.i
+data/LICENSE.i
+data/README.md.i
+data/.hgignore.i
+data/go.mod.i
+data/consts.go.i
+data/helper_functions.go.i
+data/server.go.i
